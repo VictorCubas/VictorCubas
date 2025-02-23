@@ -16,8 +16,8 @@
   <a href="#"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="32" alt="Firebase" title="Firebase"></a>
   <a href="#"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" alt="HTML5" title="HTML5"></a>
   <a href="#"><img src="https://cdn.simpleicons.org/sass/CC6699" width="32" alt="SASS" title="SASS"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/postgresql/336791" width="32" alt="PostgreSQL" title="PostgreSQL"></a>
 </p>
-
 
 
 ## 🌍 Conéctate conmigo  
