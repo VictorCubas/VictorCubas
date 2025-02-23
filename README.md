@@ -16,5 +16,8 @@
 ## 🌍 Conéctate conmigo  
 <a href="https://www.linkedin.com/in/victor-cubas-3bb42774/" target="_blank" rel="noopener noreferrer">
   <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" width="32" alt="LinkedIn">
+</a>  
+<a href="mailto:vhcubas91@gmail.com" target="_blank" rel="noopener noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" alt="Gmail">
 </a>
 
