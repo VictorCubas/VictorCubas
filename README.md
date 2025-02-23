@@ -28,3 +28,12 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="32" alt="Gmail">
 </a>
 
+## 📊 Estadísticas  
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=vhcubas91&show_icons=true&theme=radical" alt="Estadísticas de GitHub">
+</p>
+
+## 🏆 Trofeos  
+<p>
+  <img src="https://github-profile-trophy.vercel.app/?username=vhcubas91&theme=radical&margin-w=15" alt="Trofeos de GitHub">
+</p>
