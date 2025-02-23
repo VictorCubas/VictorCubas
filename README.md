@@ -11,7 +11,13 @@
   <a href="#"><img src="https://cdn.simpleicons.org/django/092E20" width="32" alt="Django"></a>
   <a href="#"><img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="32" alt="TailwindCSS"></a>
   <a href="#"><img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="32" alt="JavaScript"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/typescript/3178C6" width="32" alt="TypeScript"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/github/181717" width="32" alt="GitHub"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/firebase/FFCA28" width="32" alt="Firebase"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/html5/E34F26" width="32" alt="HTML5"></a>
+  <a href="#"><img src="https://cdn.simpleicons.org/sass/CC6699" width="32" alt="SASS"></a>
 </p>
+
 
 ## 🌍 Conéctate conmigo  
 <a href="https://www.linkedin.com/in/victor-cubas-3bb42774/" target="_blank" rel="noopener noreferrer">
