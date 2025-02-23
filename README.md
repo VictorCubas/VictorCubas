@@ -15,5 +15,5 @@
 
 ## 🌍 Conéctate conmigo  
 <a href="https://www.linkedin.com/in/victor-cubas-3bb42774/" target="_blank" rel="noopener noreferrer">
-  <img src="https://cdn.simpleicons.org/linkedin/0077B5" width="32" alt="LinkedIn">
+  <img src="https://img.shields.io/static/v1?label=&message=&style=flat&logo=linkedin&logoColor=white&color=0077B5" width="32" alt="LinkedIn">
 </a>
